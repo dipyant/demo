@@ -9,7 +9,7 @@ public class Ass140 extends JFrame implements ActionListener
  JLabel l1,l2,l3;
  JButton b1;
  JTextField t1,t2,t3;
- 
+ /* xyz changes*/
  Ass140()
  {
   l1=new JLabel("A");
