@@ -25,4 +25,4 @@ class Prime
 			System.out.println(n + " not Prime Number");
 	}
 }
-    
+    /*changes done by aakash*/
