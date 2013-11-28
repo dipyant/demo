@@ -4,7 +4,7 @@ import java.util.*;
 class Prime
 {
 	public static void main(String args[])
-	{		
+	{		/*aakash*/
 		int n, i, res;
 		boolean flag=true;
 		//Scanner scan= new Scanner(System.in);
