@@ -1,4 +1,4 @@
-//Note: Scanner class work with JDK1.5 or above
+
 import java.util.*;
 class Prime
 {
