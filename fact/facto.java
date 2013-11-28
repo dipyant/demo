@@ -7,8 +7,8 @@ class Prime
 	{		
 		int n, i, res;
 		boolean flag=true;
-		Scanner scan= new Scanner(System.in);
-		System.out.println("Please Enter a No.");
+		//Scanner scan= new Scanner(System.in);
+		//System.out.println("Please Enter a No.");
 		n=scan.nextInt();
 		for(i=2;i<=n/2;i++)
 		{
