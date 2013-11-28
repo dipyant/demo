@@ -23,5 +23,5 @@ class Prime
 		else/*my commit*/
 			System.out.println(n + " not Prime Number");
 	}
-}
+}/*divyesh*/
     /*changes done by aakash*/
