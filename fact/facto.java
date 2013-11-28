@@ -18,7 +18,7 @@ class Prime
 				flag=false;
 				break;
 			}
-		}
+		}/*dipyant*/
 		if(flag)
 			System.out.println(n + " is Prime Number");
 		else
