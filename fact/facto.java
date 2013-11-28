@@ -1,4 +1,5 @@
 /*updated code*/
+/*qwerty*/
 import java.util.*;
 class Prime
 {
