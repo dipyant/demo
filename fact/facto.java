@@ -22,7 +22,7 @@ class Prime
 		if(flag)
 			System.out.println(n + " is Prime Number");
 		else
-			System.out.println(n + " is not Prime Number");
+			System.out.println(n + " not Prime Number");
 	}
 }
     
