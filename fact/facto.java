@@ -1,4 +1,4 @@
-
+/*updated code*/
 import java.util.*;
 class Prime
 {
