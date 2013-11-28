@@ -21,7 +21,7 @@ class Prime
 		}/*dipyant*/
 		if(flag)
 			System.out.println(n + " is Prime Number");
-		else
+		else/*my commit*/
 			System.out.println(n + " not Prime Number");
 	}
 }
